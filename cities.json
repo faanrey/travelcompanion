@@ -1,1 +1,1228 @@
-
+{
+  "version": 1,
+  "updated": "2026-05-03",
+  "currency": "EGP",
+  "notes": "Ticket prices and hours change frequently in Egypt. Verify before publishing. Coordinates use lat, lng order (WGS84).",
+  "cities": [
+    {
+      "id": "cairo",
+      "name": "Cairo",
+      "nameArabic": "القاهرة",
+      "region": "Lower Egypt",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "description": "Egypt's sprawling capital straddling the Nile, where medieval Islamic Cairo, Coptic Cairo, and modern downtown coexist with the world's most famous museum collections. Loud, intense, and historically unmatched.",
+      "shortDescription": "Egypt's chaotic, history-rich capital on the Nile.",
+      "bestTimeToVisit": "October to April",
+      "imageUrl": "cairo.jpg",
+      "sites": [
+        {
+          "id": "egyptian-museum",
+          "name": "Egyptian Museum (Tahrir)",
+          "category": "museum",
+          "lat": 30.0478,
+          "lng": 31.2336,
+          "description": "The original Egyptian Museum on Tahrir Square, holding tens of thousands of antiquities. Many headline pieces have moved to the GEM, but the Tahrir museum retains an irreplaceable atmosphere and major collections including the royal mummies.",
+          "ticketPriceEGP": 550,
+          "openingHours": "09:00–17:00",
+          "tips": [
+            "Compare with the new Grand Egyptian Museum in Giza before deciding which to prioritize",
+            "Photography permitted with a separate ticket",
+            "Allow at least 3 hours"
+          ]
+        },
+        {
+          "id": "khan-el-khalili",
+          "name": "Khan el-Khalili",
+          "category": "historic-market",
+          "lat": 30.0476,
+          "lng": 31.2625,
+          "description": "Sprawling medieval bazaar in Islamic Cairo, founded in the 14th century. Spices, copperware, lanterns, perfumes, and jewelry alongside countless cafes. Touristy but genuinely historic.",
+          "ticketPriceEGP": 0,
+          "openingHours": "Most shops 10:00–22:00, closed Friday morning",
+          "tips": [
+            "Bargain hard — start at 30–40% of the asking price",
+            "El Fishawy cafe has been open continuously for over 200 years",
+            "Combine with a visit to nearby Al-Azhar Mosque"
+          ]
+        },
+        {
+          "id": "citadel-saladin",
+          "name": "Citadel of Saladin",
+          "category": "fortress",
+          "lat": 30.0287,
+          "lng": 31.2599,
+          "description": "Hilltop medieval fortress built by Saladin in the 12th century, dominating Cairo's skyline. Contains the Mosque of Muhammad Ali (the Alabaster Mosque) and several museums.",
+          "ticketPriceEGP": 450,
+          "openingHours": "09:00–17:00",
+          "tips": [
+            "Best views of Cairo from the ramparts",
+            "Dress modestly — you'll enter active mosques",
+            "Combine with Sultan Hassan Mosque just below"
+          ]
+        },
+        {
+          "id": "al-azhar-mosque",
+          "name": "Al-Azhar Mosque",
+          "category": "mosque",
+          "lat": 30.0459,
+          "lng": 31.2624,
+          "description": "Founded in 970 CE, one of the oldest universities in the world and a major center of Sunni Islamic learning. Active mosque and seminary.",
+          "ticketPriceEGP": 0,
+          "openingHours": "Outside prayer times",
+          "tips": [
+            "Free entry but modest dress required",
+            "Women need a headscarf",
+            "Quietest in early morning"
+          ]
+        },
+        {
+          "id": "coptic-cairo",
+          "name": "Coptic Cairo (Old Cairo)",
+          "category": "historic-quarter",
+          "lat": 30.0058,
+          "lng": 31.2306,
+          "description": "Ancient Christian quarter containing the Hanging Church, Church of St. Sergius, the Coptic Museum, and Ben Ezra Synagogue. Walkable cluster of religious history predating the Islamic conquest.",
+          "ticketPriceEGP": 250,
+          "openingHours": "09:00–17:00 (Coptic Museum)",
+          "tips": [
+            "Churches are free; the Coptic Museum has a ticket",
+            "Take the metro to Mar Girgis station — it's right at the entrance",
+            "Quiet on weekday mornings"
+          ]
+        },
+        {
+          "id": "ibn-tulun-mosque",
+          "name": "Mosque of Ibn Tulun",
+          "category": "mosque",
+          "lat": 30.0289,
+          "lng": 31.2496,
+          "description": "Cairo's oldest intact mosque, built in 879 CE. Massive courtyard, distinctive spiral minaret, and a profound sense of stillness rare in the city.",
+          "ticketPriceEGP": 0,
+          "openingHours": "08:00–17:00",
+          "tips": [
+            "Climb the minaret for panoramic views",
+            "Often nearly empty — a striking contrast to the rest of Cairo",
+            "Combine with the adjacent Gayer-Anderson Museum"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "abou-tarek",
+          "name": "Abou Tarek",
+          "cuisine": "Egyptian",
+          "priceRange": "$",
+          "lat": 30.0524,
+          "lng": 31.2421,
+          "description": "Cairo's most famous koshary restaurant, serving the iconic Egyptian dish (pasta, rice, lentils, chickpeas, fried onions, tomato sauce) since 1950. A cultural institution.",
+          "tips": [
+            "Order at the counter, pay first",
+            "Add the chili sauce sparingly — it's potent",
+            "Multiple floors; head upstairs if the ground floor is full"
+          ]
+        },
+        {
+          "id": "felfela",
+          "name": "Felfela",
+          "cuisine": "Egyptian",
+          "priceRange": "$$",
+          "lat": 30.0488,
+          "lng": 31.2370,
+          "description": "Long-running downtown restaurant serving classic Egyptian dishes — ful, taameya, grilled meats, mezze — in a kitschy decorated dining room. Tourist-friendly without being a tourist trap.",
+          "tips": [
+            "Good for a first introduction to Egyptian cuisine",
+            "Mezze platter is excellent for sharing"
+          ]
+        },
+        {
+          "id": "zooba",
+          "name": "Zooba",
+          "cuisine": "Modern Egyptian",
+          "priceRange": "$$",
+          "lat": 30.0626,
+          "lng": 31.2197,
+          "description": "Contemporary takes on Egyptian street food — koshary, taameya, hawawshi — in a clean, modern setting. Multiple locations across Cairo.",
+          "tips": [
+            "Good option if you want Egyptian food in a Western-style setting",
+            "Reliable hygiene for sensitive stomachs"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "cairo-opera-house",
+          "name": "Cairo Opera House",
+          "type": "venue",
+          "lat": 30.0426,
+          "lng": 31.2244,
+          "description": "Egypt's main cultural venue on Gezira Island, hosting opera, ballet, classical music, and Arabic music performances.",
+          "priceEGP": null,
+          "tips": [
+            "Check schedule on the official site",
+            "Smart casual dress code",
+            "Tickets often very affordable by international standards"
+          ]
+        },
+        {
+          "id": "nile-felucca",
+          "name": "Felucca Sail on the Nile",
+          "type": "experience",
+          "lat": 30.0440,
+          "lng": 31.2244,
+          "description": "Traditional wooden sailboats available for hourly rides on the Nile, especially around Garden City and Zamalek. A staple Cairo experience, especially at sunset.",
+          "priceEGP": 400,
+          "tips": [
+            "Negotiate the price upfront, per boat not per person",
+            "Sunset is the best time",
+            "Bring water — most boats don't provide it"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "marriott-mena-house",
+          "name": "Marriott Mena House",
+          "stars": 5,
+          "lat": 29.9844,
+          "lng": 31.1391,
+          "description": "Historic 19th-century palace hotel with direct views of the Pyramids of Giza. Set in lush gardens, with a storied guest list including royalty and heads of state.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/mena-house-oberoi.html",
+          "tips": [
+            "Pyramid-view rooms cost more but the view is iconic",
+            "Located in Giza, not central Cairo — factor traffic into plans"
+          ]
+        },
+        {
+          "id": "four-seasons-nile-plaza",
+          "name": "Four Seasons Cairo at Nile Plaza",
+          "stars": 5,
+          "lat": 30.0382,
+          "lng": 31.2304,
+          "description": "Modern luxury hotel on the Corniche with Nile views, multiple acclaimed restaurants, and a central downtown location.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/four-seasons-cairo-at-nile-plaza.html"
+        },
+        {
+          "id": "steigenberger-tahrir",
+          "name": "Steigenberger Hotel El Tahrir",
+          "stars": 5,
+          "lat": 30.0481,
+          "lng": 31.2399,
+          "description": "Reliable upscale hotel steps from Tahrir Square and the Egyptian Museum. Practical base for downtown sightseeing.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/steigenberger-tahrir.html"
+        }
+      ]
+    },
+    {
+      "id": "giza",
+      "name": "Giza",
+      "nameArabic": "الجيزة",
+      "region": "Lower Egypt",
+      "lat": 30.0131,
+      "lng": 31.2089,
+      "description": "Adjacent to Cairo and home to the Pyramids of Giza, the Sphinx, and the new Grand Egyptian Museum. Functionally part of the Cairo metro area but with its own character around the plateau.",
+      "shortDescription": "Home of the Pyramids and the Grand Egyptian Museum.",
+      "bestTimeToVisit": "October to April",
+      "imageUrl": "giza.jpg",
+      "sites": [
+        {
+          "id": "pyramids-giza",
+          "name": "Pyramids of Giza",
+          "category": "ancient-monument",
+          "lat": 29.9792,
+          "lng": 31.1342,
+          "description": "The last surviving Wonder of the Ancient World. Three main pyramids — Khufu, Khafre, Menkaure — plus queens' pyramids, mastabas, and the Sphinx. Built roughly 4,500 years ago.",
+          "ticketPriceEGP": 700,
+          "openingHours": "07:00–17:00 (varies seasonally)",
+          "tips": [
+            "Entry to the Great Pyramid interior is a separate, expensive ticket",
+            "Arrive at opening to beat heat and crowds",
+            "Camel and horse touts are aggressive — fix prices in writing if you ride",
+            "The panoramic viewpoint south of the plateau is worth the short drive"
+          ]
+        },
+        {
+          "id": "sphinx",
+          "name": "Great Sphinx of Giza",
+          "category": "ancient-monument",
+          "lat": 29.9753,
+          "lng": 31.1376,
+          "description": "Limestone statue of a reclining sphinx with a human head and lion's body, traditionally attributed to Khafre. Included with the Pyramids ticket.",
+          "ticketPriceEGP": 0,
+          "openingHours": "Same as pyramids complex",
+          "tips": [
+            "Best photographed from the Valley Temple viewing area",
+            "Sound and light show runs nightly in multiple languages"
+          ]
+        },
+        {
+          "id": "grand-egyptian-museum",
+          "name": "Grand Egyptian Museum",
+          "category": "museum",
+          "lat": 29.9938,
+          "lng": 31.1196,
+          "description": "The largest archaeological museum in the world, opened in stages with full opening in late 2025. Houses the complete Tutankhamun collection for the first time, plus over 100,000 artifacts spanning all of ancient Egyptian history.",
+          "ticketPriceEGP": 1450,
+          "openingHours": "09:00–19:00",
+          "tips": [
+            "Verify the current ticket price and opening status — pricing has changed multiple times since opening",
+            "The Tutankhamun galleries are the headline attraction",
+            "Allow a full day; the building is enormous",
+            "Located minutes from the Pyramids — combine in one day if you have stamina"
+          ]
+        },
+        {
+          "id": "saqqara",
+          "name": "Saqqara Necropolis",
+          "category": "ancient-monument",
+          "lat": 29.8713,
+          "lng": 31.2165,
+          "description": "Vast burial ground for ancient Memphis, including the Step Pyramid of Djoser — the world's oldest large stone structure. Active excavation site with new discoveries announced regularly.",
+          "ticketPriceEGP": 450,
+          "openingHours": "08:00–17:00",
+          "tips": [
+            "Often combined with Giza and Memphis as a day trip",
+            "Several recently-opened tombs require additional tickets",
+            "Less crowded than Giza"
+          ]
+        },
+        {
+          "id": "memphis",
+          "name": "Memphis Open-Air Museum",
+          "category": "ancient-monument",
+          "lat": 29.8443,
+          "lng": 31.2506,
+          "description": "Site of the ancient capital of Lower Egypt, now mostly ruins. The main attraction is a massive fallen colossus of Ramesses II displayed in a covered pavilion.",
+          "ticketPriceEGP": 200,
+          "openingHours": "08:00–17:00",
+          "tips": [
+            "Small site, 30–60 minutes is enough",
+            "Almost always combined with Saqqara"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "9-pyramids-lounge",
+          "name": "9 Pyramids Lounge",
+          "cuisine": "Egyptian/International",
+          "priceRange": "$$$",
+          "lat": 29.9760,
+          "lng": 31.1280,
+          "description": "Restaurant inside the Pyramids complex with direct views of all nine pyramids. Touristy and pricey, but the view is unmatched.",
+          "tips": [
+            "Reservations recommended at sunset",
+            "Food is fine, the location is the point"
+          ]
+        },
+        {
+          "id": "khufu-restaurant",
+          "name": "Khufu's",
+          "cuisine": "Modern Egyptian",
+          "priceRange": "$$$$",
+          "lat": 29.9810,
+          "lng": 31.1340,
+          "description": "Fine-dining restaurant by chef Mostafa Seif on the Pyramids plateau, focused on contemporary Egyptian cuisine. Spectacular setting with pyramid views.",
+          "tips": [
+            "Reservations essential",
+            "Tasting menu showcases regional Egyptian ingredients"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "pyramids-sound-light",
+          "name": "Pyramids Sound and Light Show",
+          "type": "show",
+          "lat": 29.9753,
+          "lng": 31.1376,
+          "description": "Evening show projecting the history of ancient Egypt onto the pyramids and Sphinx. Available in multiple languages on different nights.",
+          "priceEGP": 700,
+          "tips": [
+            "Check the language schedule before booking",
+            "Bring a jacket — desert nights are cold even in summer"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "marriott-mena-house-giza",
+          "name": "Marriott Mena House",
+          "stars": 5,
+          "lat": 29.9844,
+          "lng": 31.1391,
+          "description": "Historic palace hotel with direct pyramid views, set in palm gardens. Walking distance to the Sphinx entrance.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/mena-house-oberoi.html"
+        },
+        {
+          "id": "marriott-mena-house-pyramid",
+          "name": "Pyramids View Inn",
+          "stars": 3,
+          "lat": 29.9755,
+          "lng": 31.1390,
+          "description": "Budget guesthouse in Nazlet El-Semman village beside the Sphinx, known for rooftop views directly facing the pyramids. Basic but iconic location.",
+          "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pyramids+View+Inn+Giza",
+          "tips": [
+            "Several similarly-named hotels exist in the same village; verify the exact one when booking",
+            "Rooftop dinner with pyramid views is the main draw"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alexandria",
+      "name": "Alexandria",
+      "nameArabic": "الإسكندرية",
+      "region": "Mediterranean Coast",
+      "lat": 31.2001,
+      "lng": 29.9187,
+      "description": "Egypt's Mediterranean port city, founded by Alexander the Great in 331 BCE. Faded Belle Époque grandeur, ancient Greco-Roman remains, and a long Corniche along the sea. Cooler and breezier than Cairo, with a distinct cosmopolitan past.",
+      "shortDescription": "Mediterranean port city with Greco-Roman history and faded coastal charm.",
+      "bestTimeToVisit": "April to October",
+      "imageUrl": "alexandria.jpg",
+      "sites": [
+        {
+          "id": "bibliotheca-alexandrina",
+          "name": "Bibliotheca Alexandrina",
+          "category": "library-museum",
+          "lat": 31.2089,
+          "lng": 29.9094,
+          "description": "Modern library and cultural complex on the site of the ancient Library of Alexandria, opened 2002. Striking disc-shaped architecture, multiple museums, planetarium, and reading hall.",
+          "ticketPriceEGP": 100,
+          "openingHours": "10:00–19:00, closed Friday morning",
+          "tips": [
+            "Multiple museums inside — antiquities, manuscripts, Sadat — each with separate but cheap entry",
+            "The main reading hall is free to view from the visitor gallery",
+            "Allow 2–3 hours"
+          ]
+        },
+        {
+          "id": "qaitbay-citadel",
+          "name": "Citadel of Qaitbay",
+          "category": "fortress",
+          "lat": 31.2139,
+          "lng": 29.8856,
+          "description": "15th-century fortress built on the exact site of the ancient Lighthouse of Alexandria, reusing some of its stones. Guards the eastern harbor entrance.",
+          "ticketPriceEGP": 200,
+          "openingHours": "09:00–17:00",
+          "tips": [
+            "Great views over the Mediterranean",
+            "Walk along the Corniche to reach it from downtown",
+            "Combine with a stop at the nearby fish market"
+          ]
+        },
+        {
+          "id": "catacombs-kom-el-shoqafa",
+          "name": "Catacombs of Kom el-Shoqafa",
+          "category": "ancient-monument",
+          "lat": 31.1786,
+          "lng": 29.8920,
+          "description": "Roman-era underground necropolis from the 2nd century CE, blending Egyptian, Greek, and Roman funerary art. Three levels deep, accessed by a spiral staircase.",
+          "ticketPriceEGP": 200,
+          "openingHours": "09:00–17:00",
+          "tips": [
+            "Lowest level may be flooded — check before going",
+            "No photography permitted inside",
+            "Combine with Pompey's Pillar nearby"
+          ]
+        },
+        {
+          "id": "pompeys-pillar",
+          "name": "Pompey's Pillar",
+          "category": "ancient-monument",
+          "lat": 31.1825,
+          "lng": 29.8964,
+          "description": "27-meter Roman triumphal column from 297 CE, the largest of its kind erected outside Rome. Surrounded by Sphinxes and ruins of the Serapeum.",
+          "ticketPriceEGP": 100,
+          "openingHours": "09:00–17:00",
+          "tips": [
+            "Small site, 30–45 minutes is enough",
+            "Walking distance from the Catacombs"
+          ]
+        },
+        {
+          "id": "roman-amphitheatre",
+          "name": "Roman Amphitheatre (Kom el-Dikka)",
+          "category": "ancient-monument",
+          "lat": 31.1944,
+          "lng": 29.9060,
+          "description": "Well-preserved Roman amphitheatre with marble seating, plus an associated archaeological park including a villa with mosaics. Discovered by accident in 1960.",
+          "ticketPriceEGP": 150,
+          "openingHours": "09:00–17:00",
+          "tips": [
+            "Central location, easy to combine with downtown wandering",
+            "The Villa of the Birds mosaics require a separate ticket"
+          ]
+        },
+        {
+          "id": "montaza-palace-gardens",
+          "name": "Montaza Palace Gardens",
+          "category": "park",
+          "lat": 31.2884,
+          "lng": 30.0169,
+          "description": "Sprawling royal palace gardens on the eastern Corniche, with the former summer palace of King Farouk. The gardens are open to the public; the palace interior is generally not.",
+          "ticketPriceEGP": 25,
+          "openingHours": "08:00–sunset",
+          "tips": [
+            "Lovely walk in cool weather",
+            "Private beach inside has separate fee"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "kadoura",
+          "name": "Kadoura",
+          "cuisine": "Seafood",
+          "priceRange": "$$",
+          "lat": 31.2120,
+          "lng": 29.8889,
+          "description": "Beloved local seafood restaurant near the Corniche where you pick your fish from ice and they cook it. Grilled, fried, or in tagines.",
+          "tips": [
+            "Pricing is by weight — confirm before they cook",
+            "Sea bass and shrimp are reliable choices",
+            "Casual setting, busy at lunch"
+          ]
+        },
+        {
+          "id": "mohamed-ahmed",
+          "name": "Mohamed Ahmed",
+          "cuisine": "Egyptian (ful and taameya)",
+          "priceRange": "$",
+          "lat": 31.1998,
+          "lng": 29.9008,
+          "description": "Alexandria's most famous breakfast spot, specializing in ful (fava beans) and taameya (Egyptian falafel) for over 60 years. Counter service, packed in mornings.",
+          "tips": [
+            "Best for breakfast",
+            "The mixed plate covers all the staples",
+            "No alcohol, no frills"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "corniche-walk",
+          "name": "Corniche Promenade",
+          "type": "walk",
+          "lat": 31.2089,
+          "lng": 29.9094,
+          "description": "Long seafront promenade running the length of the city. Best at sunset when locals come out to walk and eat freshly grilled corn from carts.",
+          "priceEGP": 0,
+          "tips": [
+            "Walk from Bibliotheca Alexandrina toward Qaitbay for the most scenic stretch",
+            "Late afternoon avoids midday heat"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "four-seasons-alexandria",
+          "name": "Four Seasons Hotel Alexandria at San Stefano",
+          "stars": 5,
+          "lat": 31.2452,
+          "lng": 29.9697,
+          "description": "Modern luxury hotel on the eastern Corniche with private beach, multiple pools, and Mediterranean views.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/four-seasons-alexandria-at-san-stefano.html"
+        },
+        {
+          "id": "steigenberger-cecil",
+          "name": "Steigenberger Cecil Hotel",
+          "stars": 4,
+          "lat": 31.1974,
+          "lng": 29.8954,
+          "description": "Historic hotel from 1929 on Saad Zaghloul Square, famously frequented by Winston Churchill, Somerset Maugham, and Lawrence Durrell. Recently renovated but retains character.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/cecil.html"
+        },
+        {
+          "id": "paradise-inn-windsor",
+          "name": "Paradise Inn Windsor Palace",
+          "stars": 4,
+          "lat": 31.1989,
+          "lng": 29.8957,
+          "description": "Belle Époque hotel from 1906 in the heart of downtown, retaining its period architecture and details. Sea views from front rooms.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/windsor-palace.html"
+        }
+      ]
+    },
+    {
+      "id": "sharm-el-sheikh",
+      "name": "Sharm el-Sheikh",
+      "nameArabic": "شرم الشيخ",
+      "region": "Sinai / Red Sea",
+      "lat": 27.9158,
+      "lng": 34.3300,
+      "description": "Resort city on the southern tip of the Sinai Peninsula, built around world-class Red Sea diving and snorkeling. Naama Bay is the main tourist hub; Ras Mohammed National Park is the diving headline.",
+      "shortDescription": "Red Sea resort city famous for coral reefs and diving.",
+      "bestTimeToVisit": "March to May, September to November",
+      "imageUrl": "sharm.jpg",
+      "sites": [
+        {
+          "id": "ras-mohammed",
+          "name": "Ras Mohammed National Park",
+          "category": "national-park",
+          "lat": 27.7361,
+          "lng": 34.2517,
+          "description": "Egypt's first national park, protecting some of the world's richest coral reefs at the meeting point of the Gulfs of Suez and Aqaba. World-class diving and snorkeling sites including Shark Reef and Yolanda Reef.",
+          "ticketPriceUSD": 10,
+          "openingHours": "Sunrise–sunset",
+          "tips": [
+            "Most easily visited via organized day trips by boat or 4x4",
+            "Bring your passport — checkpoint en route",
+            "Reef shoes recommended"
+          ]
+        },
+        {
+          "id": "naama-bay",
+          "name": "Naama Bay",
+          "category": "beach-area",
+          "lat": 27.9089,
+          "lng": 34.3247,
+          "description": "Sharm's original tourist hub, with a pedestrianized seafront, beaches, restaurants, and nightlife. More compact and walkable than the newer resort sprawl.",
+          "ticketPriceEGP": 0,
+          "openingHours": "Always open",
+          "tips": [
+            "Public beach access is limited — most beach is hotel-controlled",
+            "Promenade is liveliest in the evening"
+          ]
+        },
+        {
+          "id": "shark-yolanda-reef",
+          "name": "Shark and Yolanda Reef",
+          "category": "dive-site",
+          "lat": 27.7232,
+          "lng": 34.2607,
+          "description": "World-renowned dive site within Ras Mohammed, named for the wreck of the cargo ship Yolanda. Drift dive along sheer walls with massive schools of fish.",
+          "ticketPriceUSD": null,
+          "tips": [
+            "Advanced divers only — strong currents",
+            "Booked through dive operators in Sharm or Naama Bay",
+            "Visibility often 30+ meters"
+          ]
+        },
+        {
+          "id": "thistlegorm-wreck",
+          "name": "SS Thistlegorm Wreck",
+          "category": "dive-site",
+          "lat": 27.8133,
+          "lng": 33.9210,
+          "description": "British WWII supply ship sunk in 1941, lying in 30m of water in the Strait of Gubal. One of the world's top wreck dives, with motorcycles, trucks, and rifles still in the holds.",
+          "ticketPriceUSD": null,
+          "tips": [
+            "Requires a long boat trip (3+ hours each way) or liveaboard",
+            "Advanced/wreck certification recommended",
+            "Best as a 2-tank dive"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "el-masrien",
+          "name": "El Masrien Grill",
+          "cuisine": "Egyptian grills",
+          "priceRange": "$$",
+          "lat": 27.9098,
+          "lng": 34.3287,
+          "description": "Long-running grill house in Naama Bay popular for kebabs, kofta, and grilled chicken. Casual outdoor seating.",
+          "tips": [
+            "Mixed grill is the standard order",
+            "No alcohol — go elsewhere if that matters"
+          ]
+        },
+        {
+          "id": "fares-seafood",
+          "name": "Fares Seafood",
+          "cuisine": "Seafood",
+          "priceRange": "$$$",
+          "lat": 27.8628,
+          "lng": 34.3043,
+          "description": "Seafood restaurant in Sharm's Old Market with display of the daily catch. Grilled fish, shrimp tagines, and traditional preparations.",
+          "tips": [
+            "Pricing by weight — confirm before cooking",
+            "The Old Market area is more atmospheric than Naama Bay"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "soho-square",
+          "name": "Soho Square",
+          "type": "entertainment-complex",
+          "lat": 27.9520,
+          "lng": 34.3625,
+          "description": "Pedestrian entertainment complex with restaurants, bars, an ice rink, dancing fountain, and bowling. Family-oriented and busy after dark.",
+          "priceEGP": 0,
+          "tips": [
+            "Free to enter; pay per attraction",
+            "Fountain show runs in the evenings"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "four-seasons-sharm",
+          "name": "Four Seasons Resort Sharm El Sheikh",
+          "stars": 5,
+          "lat": 27.8842,
+          "lng": 34.3331,
+          "description": "Luxury resort built in tiered Moorish style on a private bay with house reef, multiple pools, and full diving facilities.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/four-seasons-resort-sharm-el-sheikh.html"
+        },
+        {
+          "id": "rixos-premium-seagate",
+          "name": "Rixos Premium Seagate",
+          "stars": 5,
+          "lat": 27.8688,
+          "lng": 34.3144,
+          "description": "Large all-inclusive resort on a private beach with extensive water features, multiple restaurants, and house reef snorkeling.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/sea-gate-resort.html"
+        },
+        {
+          "id": "camel-hotel",
+          "name": "Camel Hotel",
+          "stars": 4,
+          "lat": 27.9094,
+          "lng": 34.3266,
+          "description": "Long-running mid-range hotel in central Naama Bay, owned by Camel Dive Club — one of Sharm's oldest and most reputable dive centers.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/camel.html",
+          "tips": [
+            "Best choice if diving is your main reason for visiting",
+            "Walking distance to beach and nightlife"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dahab",
+      "name": "Dahab",
+      "nameArabic": "دهب",
+      "region": "Sinai / Red Sea",
+      "lat": 28.5091,
+      "lng": 34.5136,
+      "description": "Laid-back Red Sea town on the Gulf of Aqaba, an hour north of Sharm. Originally a Bedouin fishing village, now a backpacker and divers' favorite known for the Blue Hole, free-diving, kitesurfing, and a relaxed beachfront with low-rise camps.",
+      "shortDescription": "Relaxed Red Sea town beloved by divers and backpackers.",
+      "bestTimeToVisit": "March to May, September to November",
+      "imageUrl": "dahab.jpg",
+      "sites": [
+        {
+          "id": "blue-hole",
+          "name": "Blue Hole",
+          "category": "dive-site",
+          "lat": 28.5722,
+          "lng": 34.5375,
+          "description": "Submarine sinkhole north of Dahab, around 100m deep, ringed by coral. World-famous freediving site and notorious for technical-diving fatalities at the Arch — but excellent and safe for snorkeling and recreational diving along the rim.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Snorkeling along the rim is spectacular and accessible to anyone",
+            "Do NOT attempt the Arch without proper technical training — it has killed many",
+            "Several beachfront cafes serve lunch with views over the hole"
+          ]
+        },
+        {
+          "id": "canyon-dive-site",
+          "name": "The Canyon",
+          "category": "dive-site",
+          "lat": 28.5614,
+          "lng": 34.5314,
+          "description": "Iconic dive site near the Blue Hole featuring a narrow underwater canyon you swim through, between 12m and 30m. Atmospheric and accessible to advanced open-water divers.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Advanced certification recommended",
+            "Booked through any Dahab dive center"
+          ]
+        },
+        {
+          "id": "lighthouse-reef",
+          "name": "Lighthouse Reef",
+          "category": "dive-site",
+          "lat": 28.5097,
+          "lng": 34.5165,
+          "description": "Shore-accessible house reef in the heart of Dahab, ideal for training dives and easy snorkeling. Healthy coral with reliable fish life right off the promenade.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Free to snorkel from shore",
+            "Most dive schools run open-water courses here"
+          ]
+        },
+        {
+          "id": "ras-abu-galum",
+          "name": "Ras Abu Galum Protectorate",
+          "category": "national-park",
+          "lat": 28.6286,
+          "lng": 34.5664,
+          "description": "Protected coastal wilderness north of the Blue Hole, accessible only by camel, jeep, or boat. Bedouin camps, untouched reefs, and stark mountain-meets-sea scenery.",
+          "ticketPriceEGP": 100,
+          "tips": [
+            "Day trips by camel from Blue Hole are a Dahab classic",
+            "Bring water and sun protection — minimal facilities"
+          ]
+        },
+        {
+          "id": "mount-sinai",
+          "name": "Mount Sinai",
+          "category": "mountain",
+          "lat": 28.5394,
+          "lng": 33.9750,
+          "description": "Sacred mountain (2,285m) traditionally identified as where Moses received the Ten Commandments. Climbed overnight to reach the summit for sunrise.",
+          "ticketPriceEGP": 200,
+          "tips": [
+            "Day trip from Dahab, departing late evening",
+            "Bring warm layers — summit is cold even in summer",
+            "Combined with Saint Catherine's Monastery at the base",
+            "Two routes: the Camel Path (gradual) and the Steps of Penitence (steep)"
+          ]
+        },
+        {
+          "id": "saint-catherines",
+          "name": "Saint Catherine's Monastery",
+          "category": "religious-site",
+          "lat": 28.5559,
+          "lng": 33.9758,
+          "description": "Greek Orthodox monastery founded in the 6th century at the foot of Mount Sinai, the oldest continuously inhabited Christian monastery. UNESCO World Heritage site.",
+          "ticketPriceEGP": 0,
+          "openingHours": "09:00–12:00, closed Friday, Sunday, and major holidays",
+          "tips": [
+            "Free entry but the famous library and icons may not be accessible",
+            "Modest dress required",
+            "Combined with Mount Sinai climb"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "ralphs-german-bakery",
+          "name": "Ralph's German Bakery",
+          "cuisine": "Bakery/Cafe",
+          "priceRange": "$",
+          "lat": 28.5083,
+          "lng": 34.5147,
+          "description": "Long-running bakery and breakfast spot in Dahab, popular for fresh bread, pastries, sandwiches, and proper coffee. Expat hangout.",
+          "tips": [
+            "Multiple locations in Dahab",
+            "Good Wi-Fi for digital nomads"
+          ]
+        },
+        {
+          "id": "everyday",
+          "name": "Everyday Restaurant",
+          "cuisine": "Egyptian/International",
+          "priceRange": "$$",
+          "lat": 28.5106,
+          "lng": 34.5142,
+          "description": "Beachfront restaurant on the Mashraba promenade serving Egyptian dishes, seafood, and international comfort food. Cushion seating and sea views.",
+          "tips": [
+            "Beachfront seating fills up at sunset",
+            "Generous portions"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "kitesurfing-dahab",
+          "name": "Kitesurfing at Blue Lagoon",
+          "type": "watersport",
+          "lat": 28.4250,
+          "lng": 34.5067,
+          "description": "Shallow lagoon south of Dahab with reliable thermal winds, considered one of the best kitesurfing spots in the Red Sea. Multiple schools operate beach camps.",
+          "priceEGP": null,
+          "tips": [
+            "Best wind season is May–September",
+            "Multi-day packages standard",
+            "Accommodation often included at the camp"
+          ]
+        },
+        {
+          "id": "free-diving-dahab",
+          "name": "Freediving at the Blue Hole",
+          "type": "watersport",
+          "lat": 28.5722,
+          "lng": 34.5375,
+          "description": "Dahab is one of the world's premier freediving destinations, with several internationally-known schools running courses from beginner to instructor level.",
+          "priceEGP": null,
+          "tips": [
+            "Courses typically run 3–7 days",
+            "Requires no prior experience for entry-level certification"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "dahab-paradise",
+          "name": "Dahab Paradise",
+          "stars": 4,
+          "lat": 28.4951,
+          "lng": 34.5111,
+          "description": "Boutique beachfront hotel in the quieter Mashraba area, with a private beach, pool, and house reef.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/dahab-paradise.html"
+        },
+        {
+          "id": "le-meridien-dahab",
+          "name": "Le Méridien Dahab Resort",
+          "stars": 5,
+          "lat": 28.5253,
+          "lng": 34.5197,
+          "description": "Largest upscale resort in Dahab, set on a private beach north of the main strip with extensive grounds and full resort amenities.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/hilton-dahab-resort.html",
+          "tips": [
+            "Quieter and more isolated than central Dahab",
+            "Verify current branding — this property has changed operators"
+          ]
+        },
+        {
+          "id": "penguin-village",
+          "name": "Penguin Village",
+          "stars": 3,
+          "lat": 28.5108,
+          "lng": 34.5145,
+          "description": "Long-running budget-friendly hotel directly on the Mashraba promenade. Simple rooms, reliable Wi-Fi, on-site dive school.",
+          "bookingUrl": "https://www.booking.com/searchresults.html?ss=Penguin+Village+Dahab"
+        }
+      ]
+    },
+    {
+      "id": "marsa-matruh",
+      "name": "Marsa Matruh",
+      "nameArabic": "مرسى مطروح",
+      "region": "Mediterranean Coast",
+      "lat": 31.3543,
+      "lng": 27.2373,
+      "description": "Mediterranean coastal town 290km west of Alexandria, known for crescent-shaped white-sand beaches and turquoise water. Primarily a domestic Egyptian summer destination, with the famous Agiba and Cleopatra beaches nearby.",
+      "shortDescription": "Mediterranean beach town with white sand and turquoise lagoons.",
+      "bestTimeToVisit": "May to September",
+      "imageUrl": "marsa-matruh.jpg",
+      "sites": [
+        {
+          "id": "agiba-beach",
+          "name": "Agiba Beach",
+          "category": "beach",
+          "lat": 31.4068,
+          "lng": 27.0686,
+          "description": "Small, dramatic cove backed by limestone cliffs, west of the main town. The name means 'miracle' in Arabic. Reached by a path down from a clifftop viewpoint.",
+          "ticketPriceEGP": 30,
+          "tips": [
+            "Best photographed from the clifftop, not the beach itself",
+            "Very crowded in peak summer (July–August)",
+            "Limited facilities — bring water and sun protection"
+          ]
+        },
+        {
+          "id": "cleopatra-beach",
+          "name": "Cleopatra Beach (Cleopatra's Bath)",
+          "category": "beach",
+          "lat": 31.3725,
+          "lng": 27.1681,
+          "description": "Rocky beach west of town with a natural pool carved into the rocks, said to have been used by Cleopatra. The geology is the attraction; swimming conditions vary with sea state.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Better for photos than swimming",
+            "Caution in rough sea — the rocks are sharp"
+          ]
+        },
+        {
+          "id": "rommel-museum",
+          "name": "Rommel Cave Museum",
+          "category": "museum",
+          "lat": 31.3656,
+          "lng": 27.2358,
+          "description": "Small museum in the cave that served as Field Marshal Erwin Rommel's headquarters during the WWII North African campaign. Personal effects, maps, and military artifacts.",
+          "ticketPriceEGP": 50,
+          "openingHours": "09:00–16:00",
+          "tips": [
+            "Niche interest — mainly for WWII history enthusiasts",
+            "Small site, 30 minutes is enough"
+          ]
+        },
+        {
+          "id": "el-alamein-cemeteries",
+          "name": "El Alamein War Cemeteries",
+          "category": "memorial",
+          "lat": 30.8278,
+          "lng": 28.9514,
+          "description": "Commonwealth, German, and Italian war cemeteries marking the WWII battles of El Alamein, roughly 100km east of Marsa Matruh. The associated military museum is at the Commonwealth site.",
+          "ticketPriceEGP": 0,
+          "openingHours": "Daylight hours",
+          "tips": [
+            "Day trip if driving between Alexandria and Marsa Matruh",
+            "Free entry, donations welcome",
+            "The military museum is paid and worthwhile"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "panayotis",
+          "name": "Panayotis Greek Restaurant",
+          "cuisine": "Greek/Mediterranean",
+          "priceRange": "$$",
+          "lat": 31.3550,
+          "lng": 27.2370,
+          "description": "Long-running Greek restaurant in central Marsa Matruh reflecting the town's Greek-influenced past. Fresh seafood, mezze, grilled fish.",
+          "tips": [
+            "Open mainly in summer season",
+            "Verify current operating status before visiting"
+          ]
+        },
+        {
+          "id": "abdou-kofta",
+          "name": "Abdou Kofta",
+          "cuisine": "Egyptian grills",
+          "priceRange": "$$",
+          "lat": 31.3545,
+          "lng": 27.2381,
+          "description": "Popular kofta and kebab spot in town, busy with locals and Egyptian holidaymakers in summer.",
+          "tips": [
+            "Very busy in peak season — go off-hours",
+            "Cash only at many local spots"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "matruh-corniche",
+          "name": "Matruh Corniche",
+          "type": "walk",
+          "lat": 31.3543,
+          "lng": 27.2373,
+          "description": "Seafront promenade through town, lively in summer evenings with cafes, ice cream stands, and family crowds.",
+          "priceEGP": 0,
+          "tips": [
+            "Liveliest after sunset",
+            "Largely deserted out of summer season"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "jaz-almaza-beach",
+          "name": "Jaz Almaza Beach Resort",
+          "stars": 5,
+          "lat": 31.4769,
+          "lng": 26.9608,
+          "description": "Large all-inclusive resort east of town on Almaza Bay, with multiple pools, water sports, and a long private beach.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/jaz-almaza-beach-resort.html"
+        },
+        {
+          "id": "beau-site",
+          "name": "Beau Site Hotel",
+          "stars": 4,
+          "lat": 31.3622,
+          "lng": 27.2275,
+          "description": "Long-established beachfront hotel on the western edge of town, family-run with private beach access.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/beau-site.html"
+        },
+        {
+          "id": "rixos-alamein",
+          "name": "Rixos Alamein",
+          "stars": 5,
+          "lat": 30.9450,
+          "lng": 28.9789,
+          "description": "Large all-inclusive resort on the North Coast between Alexandria and Marsa Matruh, suitable as a stop or alternative beach base.",
+          "bookingUrl": "https://www.booking.com/searchresults.html?ss=Rixos+Alamein"
+        }
+      ]
+    },
+    {
+      "id": "siwa-oasis",
+      "name": "Siwa Oasis",
+      "nameArabic": "واحة سيوة",
+      "region": "Western Desert",
+      "lat": 29.2032,
+      "lng": 25.5197,
+      "description": "Remote oasis near the Libyan border, 8–9 hours from Cairo and 4 hours from Marsa Matruh. Distinct Berber culture (Siwi language, separate from Arabic), salt lakes, ancient mudbrick fortress, the Oracle of Amun once consulted by Alexander the Great, and a uniquely peaceful atmosphere.",
+      "shortDescription": "Remote Berber oasis with salt lakes, ancient ruins, and singular atmosphere.",
+      "bestTimeToVisit": "October to April",
+      "imageUrl": "siwa.jpg",
+      "sites": [
+        {
+          "id": "shali-fortress",
+          "name": "Shali Fortress",
+          "category": "historic-site",
+          "lat": 29.2034,
+          "lng": 25.5188,
+          "description": "Ruined mudbrick fortress at the heart of Siwa town, built in the 13th century from kershef (salt-rock and mud). Largely abandoned after heavy rains in 1926 dissolved much of the structure. Partially restored and walkable.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Climb to the top for sunset views over the oasis",
+            "Free to wander, no formal entry",
+            "Combine with the Siwa House Museum nearby"
+          ]
+        },
+        {
+          "id": "oracle-amun",
+          "name": "Temple of the Oracle of Amun",
+          "category": "ancient-monument",
+          "lat": 29.2003,
+          "lng": 25.5450,
+          "description": "26th Dynasty temple where Alexander the Great was famously declared the son of Amun in 331 BCE. Located on the Aghurmi rock outcrop east of town.",
+          "ticketPriceEGP": 100,
+          "openingHours": "08:00–17:00",
+          "tips": [
+            "Combined ticket sometimes covers Umm Ubayda and Cleopatra Spring",
+            "Climb the outcrop for views over the palm groves"
+          ]
+        },
+        {
+          "id": "cleopatra-spring",
+          "name": "Cleopatra's Spring (Ain Juba)",
+          "category": "natural-pool",
+          "lat": 29.2014,
+          "lng": 25.5419,
+          "description": "Stone-lined natural spring pool surrounded by palms, where local tradition (and not actual history) says Cleopatra bathed. Open for swimming.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Modest swimwear expected — Siwa is conservative",
+            "Cafes overlooking the spring serve mint tea",
+            "Quietest in early morning"
+          ]
+        },
+        {
+          "id": "fatnas-island",
+          "name": "Fatnas Island",
+          "category": "natural-area",
+          "lat": 29.1936,
+          "lng": 25.4794,
+          "description": "Small palm-covered island in Birket Siwa salt lake, connected by a narrow causeway. Famous for sunset views over the lake from a rustic cafe.",
+          "ticketPriceEGP": 20,
+          "tips": [
+            "Go for sunset",
+            "Cafe serves tea and basic snacks",
+            "Bicycle from town in 20–30 minutes"
+          ]
+        },
+        {
+          "id": "mountain-of-the-dead",
+          "name": "Gebel al-Mawta (Mountain of the Dead)",
+          "category": "ancient-monument",
+          "lat": 29.2128,
+          "lng": 25.5181,
+          "description": "Hill on the edge of Siwa town honeycombed with rock-cut tombs from the 26th Dynasty through the Roman period. Several tombs have well-preserved painted reliefs.",
+          "ticketPriceEGP": 100,
+          "openingHours": "08:00–17:00",
+          "tips": [
+            "Only a few tombs are open at any given time",
+            "Guide at the entrance can unlock and explain them"
+          ]
+        },
+        {
+          "id": "great-sand-sea",
+          "name": "Great Sand Sea",
+          "category": "desert",
+          "lat": 29.0500,
+          "lng": 25.4500,
+          "description": "Vast dune field stretching from Siwa toward Libya. Accessed via 4x4 desert safaris from Siwa, including stops at hot and cold springs and dune surfing.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Half-day or full-day safaris booked through any Siwa hotel",
+            "Sunset in the dunes is unforgettable",
+            "Often combined with Bir Wahed hot spring"
+          ]
+        },
+        {
+          "id": "salt-lakes",
+          "name": "Siwa Salt Lakes",
+          "category": "natural-pool",
+          "lat": 29.2167,
+          "lng": 25.5500,
+          "description": "Hyper-saline lakes around Siwa, formed by salt mining, with vivid turquoise water and crystalline salt edges. Buoyant water like the Dead Sea.",
+          "ticketPriceEGP": 0,
+          "tips": [
+            "Free to access, but rinse off with fresh water immediately after",
+            "Salt is sharp — wear water shoes",
+            "Spectacular for photos"
+          ]
+        }
+      ],
+      "food": [
+        {
+          "id": "abdu-restaurant",
+          "name": "Abdu Restaurant",
+          "cuisine": "Siwan/Egyptian",
+          "priceRange": "$",
+          "lat": 29.2033,
+          "lng": 25.5195,
+          "description": "Siwa institution in the central market square, open since the 1980s. Tagines, grilled meats, vegetable stews, and Siwan specialties.",
+          "tips": [
+            "The vegetable tagine is a Siwa staple",
+            "Cash only",
+            "Central, easy to find"
+          ]
+        },
+        {
+          "id": "kenoz-shali",
+          "name": "Kenoz Shali Restaurant",
+          "cuisine": "Siwan",
+          "priceRange": "$$",
+          "lat": 29.2030,
+          "lng": 25.5175,
+          "description": "Restaurant inside the Kenoz Shali eco-lodge, serving Siwan dishes in a traditional kershef-built setting. Open to non-guests.",
+          "tips": [
+            "More atmospheric than central Siwa restaurants",
+            "Reservations advised in winter high season"
+          ]
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "desert-safari",
+          "name": "Desert Safari to Bir Wahed",
+          "type": "experience",
+          "lat": 29.1000,
+          "lng": 25.4000,
+          "description": "Standard Siwa half-day trip combining 4x4 dune driving, sandboarding, a cold spring (Bir Wahed) for swimming, and a hot spring at sunset.",
+          "priceEGP": 600,
+          "tips": [
+            "Booked through any hotel or local operator",
+            "Bring swimwear and a towel",
+            "Sunset version is the classic"
+          ]
+        },
+        {
+          "id": "siwa-traditional-music",
+          "name": "Siwan Traditional Music Evening",
+          "type": "cultural",
+          "lat": 29.2034,
+          "lng": 25.5188,
+          "description": "Several lodges and cultural centers occasionally host evenings of Siwan music — a distinct Berber tradition with its own instruments and rhythms.",
+          "priceEGP": null,
+          "tips": [
+            "Ad-hoc scheduling — ask at your hotel",
+            "Adrère Amellal and similar lodges most reliable"
+          ]
+        }
+      ],
+      "hotels": [
+        {
+          "id": "adrere-amellal",
+          "name": "Adrère Amellal",
+          "stars": 5,
+          "lat": 29.2375,
+          "lng": 25.4844,
+          "description": "Iconic eco-lodge built entirely from kershef at the foot of the White Mountain, by the salt lake. No electricity — lit by candles and oil lamps. All-inclusive with Siwan cuisine.",
+          "bookingUrl": "https://www.booking.com/searchresults.html?ss=Adrere+Amellal+Siwa",
+          "tips": [
+            "Reservations typically direct, not via OTAs",
+            "Most distinctive accommodation in Egypt — book well ahead",
+            "No phones, no Wi-Fi by design"
+          ]
+        },
+        {
+          "id": "kenoz-shali-lodge",
+          "name": "Kenoz Shali Lodge",
+          "stars": 4,
+          "lat": 29.2030,
+          "lng": 25.5175,
+          "description": "Boutique lodge built in traditional Siwan style at the foot of Shali Fortress in central Siwa. Mudbrick architecture, palm gardens, on-site restaurant.",
+          "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kenoz+Shali"
+        },
+        {
+          "id": "siwa-shali-resort",
+          "name": "Siwa Shali Resort",
+          "stars": 4,
+          "lat": 29.2090,
+          "lng": 25.5150,
+          "description": "Mid-range resort on the edge of town with pool, gardens, and traditional-style architecture. Reliable choice for a comfortable Siwa stay.",
+          "bookingUrl": "https://www.booking.com/hotel/eg/siwa-shali-resort.html"
+        }
+      ]
+    }
+  ]
+}
