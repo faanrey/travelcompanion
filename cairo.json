@@ -1,0 +1,399 @@
+{
+  "id": "cairo",
+  "detailVersion": 1,
+  "name": {
+    "en": "Cairo",
+    "ar": "القاهرة",
+    "zhSimplified": "开罗",
+    "esMx": "El Cairo"
+  },
+  "coordinates": {
+    "lat": 30.0444,
+    "lng": 31.2357
+  },
+  "foundingDate": "969 AD",
+  "population": 21300000,
+  "pointsOfInterest": [
+    {
+      "id": "cairo-giza-pyramids",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Pyramids of Giza",
+        "ar": "أهرامات الجيزة",
+        "zhSimplified": "吉萨金字塔",
+        "esMx": "Pirámides de Giza"
+      },
+      "description": {
+        "en": "The last surviving wonder of the ancient world. Three pyramids built around 2500 BC for pharaohs Khufu, Khafre, and Menkaure, alongside the Great Sphinx.",
+        "ar": "العجوبة الوحيدة اللي لسه باقية من عجائب الدنيا السبع القديمة. تلات أهرامات اتبنوا حوالي 2500 قبل الميلاد للفراعنة خوفو وخفرع ومنكاورع، وجنبهم أبو الهول.",
+        "zhSimplified": "古代世界唯一幸存的奇迹。约公元前2500年为法老胡夫、哈夫拉和门卡乌拉建造的三座金字塔,旁边是狮身人面像。",
+        "esMx": "La última maravilla sobreviviente del mundo antiguo. Tres pirámides construidas alrededor del 2500 a.C. para los faraones Keops, Kefrén y Micerinos, junto con la Gran Esfinge."
+      },
+      "coordinates": {
+        "lat": 29.9792,
+        "lng": 31.1342
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "07:00", "close": "17:00" },
+          "TUESDAY": { "type": "hours", "open": "07:00", "close": "17:00" },
+          "WEDNESDAY": { "type": "hours", "open": "07:00", "close": "17:00" },
+          "THURSDAY": { "type": "hours", "open": "07:00", "close": "17:00" },
+          "FRIDAY": { "type": "hours", "open": "07:00", "close": "17:00" },
+          "SATURDAY": { "type": "hours", "open": "07:00", "close": "17:00" },
+          "SUNDAY": { "type": "hours", "open": "07:00", "close": "17:00" }
+        },
+        "notes": {
+          "en": "Summer hours extend until 19:00. Sound and Light Show held in evenings.",
+          "ar": "في الصيف بيفتحوا لحد الساعة 7 بالليل. عرض الصوت والضوء بيكون بالليل.",
+          "zhSimplified": "夏季营业时间延长至19:00。声光表演在晚上举行。",
+          "esMx": "El horario de verano se extiende hasta las 19:00. Espectáculo de Luz y Sonido por las noches."
+        }
+      },
+      "address": {
+        "en": "Al Haram, Giza, Egypt",
+        "ar": "الهرم، الجيزة، مصر",
+        "zhSimplified": "金字塔区,吉萨,埃及",
+        "esMx": "Al Haram, Giza, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-egyptian-museum",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Egyptian Museum",
+        "ar": "المتحف المصري",
+        "zhSimplified": "埃及博物馆",
+        "esMx": "Museo Egipcio"
+      },
+      "description": {
+        "en": "Houses the world's most extensive collection of pharaonic antiquities, including treasures from Tutankhamun's tomb. Located in Tahrir Square, the museum opened in 1902.",
+        "ar": "بيضم أكبر مجموعة آثار فرعونية في العالم، فيها كنوز مقبرة توت عنخ آمون. موجود في ميدان التحرير، اتفتح سنة 1902.",
+        "zhSimplified": "藏有世界上最广泛的法老古物收藏,包括图坦卡蒙陵墓的珍宝。位于解放广场,博物馆于1902年开放。",
+        "esMx": "Alberga la colección más extensa del mundo de antigüedades faraónicas, incluyendo tesoros de la tumba de Tutankamón. Ubicado en la Plaza Tahrir, el museo abrió en 1902."
+      },
+      "coordinates": {
+        "lat": 30.0478,
+        "lng": 31.2336
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "FRIDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "17:00" }
+        },
+        "notes": {
+          "en": "Many items being moved to the Grand Egyptian Museum near Giza.",
+          "ar": "في حاجات كتير بيتنقلوا للمتحف المصري الكبير جنب الجيزة.",
+          "zhSimplified": "许多展品正在迁往吉萨附近的大埃及博物馆。",
+          "esMx": "Muchos artículos se están trasladando al Gran Museo Egipcio cerca de Giza."
+        }
+      },
+      "address": {
+        "en": "Tahrir Square, Cairo, Egypt",
+        "ar": "ميدان التحرير، القاهرة، مصر",
+        "zhSimplified": "解放广场,开罗,埃及",
+        "esMx": "Plaza Tahrir, El Cairo, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-khan-khalili",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Khan el-Khalili",
+        "ar": "خان الخليلي",
+        "zhSimplified": "汗哈利里市场",
+        "esMx": "Khan el-Khalili"
+      },
+      "description": {
+        "en": "Historic bazaar dating back to the 14th century, located in Islamic Cairo. Famous for spices, jewelry, copperware, perfumes, and traditional cafes.",
+        "ar": "سوق تاريخي يرجع للقرن الأربعتاشر، موجود في القاهرة الإسلامية. مشهور بالبهارات والمجوهرات والنحاسيات والعطور والقهاوي البلدي.",
+        "zhSimplified": "可追溯至14世纪的历史悠久的集市,位于伊斯兰开罗。以香料、珠宝、铜器、香水和传统咖啡馆而闻名。",
+        "esMx": "Bazar histórico que data del siglo XIV, ubicado en El Cairo Islámico. Famoso por sus especias, joyería, artículos de cobre, perfumes y cafés tradicionales."
+      },
+      "coordinates": {
+        "lat": 30.0475,
+        "lng": 31.2622
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "23:00" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "23:00" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "23:00" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "23:00" },
+          "FRIDAY": { "type": "hours", "open": "13:00", "close": "23:00" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "23:00" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "23:00" }
+        },
+        "notes": {
+          "en": "Most shops closed Friday morning during prayers.",
+          "ar": "أغلب المحلات بتقفل الجمعة الصبح وقت الصلاة.",
+          "zhSimplified": "大多数商店周五早晨祈祷期间关闭。",
+          "esMx": "La mayoría de las tiendas cerradas el viernes por la mañana durante las oraciones."
+        }
+      },
+      "address": {
+        "en": "El-Gamaleya, Cairo, Egypt",
+        "ar": "الجمالية، القاهرة، مصر",
+        "zhSimplified": "贾马利亚,开罗,埃及",
+        "esMx": "El-Gamaleya, El Cairo, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-citadel",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Citadel of Saladin",
+        "ar": "قلعة صلاح الدين",
+        "zhSimplified": "萨拉丁城堡",
+        "esMx": "Ciudadela de Saladino"
+      },
+      "description": {
+        "en": "Medieval Islamic fortification built by Saladin in 1176 to protect against Crusader attacks. Houses several mosques and museums, including the iconic Mosque of Muhammad Ali.",
+        "ar": "قلعة إسلامية من العصور الوسطى بناها صلاح الدين سنة 1176 للحماية من هجمات الصليبيين. فيها كذا مسجد ومتحف، منهم مسجد محمد علي الشهير.",
+        "zhSimplified": "中世纪伊斯兰要塞,由萨拉丁于1176年建造,以防御十字军袭击。拥有多座清真寺和博物馆,包括标志性的穆罕默德·阿里清真寺。",
+        "esMx": "Fortificación islámica medieval construida por Saladino en 1176 para proteger contra los ataques de los cruzados. Alberga varias mezquitas y museos, incluyendo la icónica Mezquita de Muhammad Ali."
+      },
+      "coordinates": {
+        "lat": 30.0294,
+        "lng": 31.2611
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "08:00", "close": "17:00" },
+          "TUESDAY": { "type": "hours", "open": "08:00", "close": "17:00" },
+          "WEDNESDAY": { "type": "hours", "open": "08:00", "close": "17:00" },
+          "THURSDAY": { "type": "hours", "open": "08:00", "close": "17:00" },
+          "FRIDAY": { "type": "hours", "open": "08:00", "close": "17:00" },
+          "SATURDAY": { "type": "hours", "open": "08:00", "close": "17:00" },
+          "SUNDAY": { "type": "hours", "open": "08:00", "close": "17:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Salah Salem St, Cairo, Egypt",
+        "ar": "شارع صلاح سالم، القاهرة، مصر",
+        "zhSimplified": "萨拉赫·萨利姆街,开罗,埃及",
+        "esMx": "Calle Salah Salem, El Cairo, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-al-azhar-park",
+      "category": "PARK",
+      "name": {
+        "en": "Al-Azhar Park",
+        "ar": "حديقة الأزهر",
+        "zhSimplified": "爱资哈尔公园",
+        "esMx": "Parque Al-Azhar"
+      },
+      "description": {
+        "en": "Stunning 30-hectare park overlooking historic Cairo, opened in 2005. Built on what was once a 500-year-old garbage dump, it offers panoramic views of the citadel and old city.",
+        "ar": "حديقة جميلة مساحتها 30 فدان مطلة على القاهرة التاريخية، اتفتحت سنة 2005. اتبنت في مكان كان مزبلة عمرها 500 سنة، وبتدي إطلالة بانورامية على القلعة والقاهرة القديمة.",
+        "zhSimplified": "占地30公顷的迷人公园,俯瞰历史悠久的开罗,2005年开放。建在曾是有500年历史的垃圾场之上,可全景眺望城堡和旧城。",
+        "esMx": "Impresionante parque de 30 hectáreas con vistas al Cairo histórico, inaugurado en 2005. Construido sobre lo que alguna vez fue un vertedero de 500 años de antigüedad, ofrece vistas panorámicas de la ciudadela y la ciudad vieja."
+      },
+      "coordinates": {
+        "lat": 30.0408,
+        "lng": 31.2628
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "22:00" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "22:00" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "22:00" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "22:00" },
+          "FRIDAY": { "type": "hours", "open": "09:00", "close": "22:00" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "22:00" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "22:00" }
+        },
+        "notes": {
+          "en": "Entry fee required. Multiple restaurants on site.",
+          "ar": "فيها تذكرة دخول. فيها كذا مطعم جوه.",
+          "zhSimplified": "需要门票。园内有多家餐厅。",
+          "esMx": "Se requiere tarifa de entrada. Varios restaurantes en el sitio."
+        }
+      },
+      "address": {
+        "en": "Salah Salem St, Cairo, Egypt",
+        "ar": "شارع صلاح سالم، القاهرة، مصر",
+        "zhSimplified": "萨拉赫·萨利姆街,开罗,埃及",
+        "esMx": "Calle Salah Salem, El Cairo, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-al-azhar-mosque",
+      "category": "MOSQUE",
+      "name": {
+        "en": "Al-Azhar Mosque",
+        "ar": "الجامع الأزهر",
+        "zhSimplified": "爱资哈尔清真寺",
+        "esMx": "Mezquita de Al-Azhar"
+      },
+      "description": {
+        "en": "Founded in 970 AD, one of the oldest universities and mosques in the world. The center of Sunni Islamic scholarship for over a millennium and a stunning example of Fatimid architecture.",
+        "ar": "اتأسست سنة 970 ميلادية، وهي من أقدم الجامعات والمساجد في العالم. مركز العلم الإسلامي السني لأكتر من ألف سنة، ومثال رائع للعمارة الفاطمية.",
+        "zhSimplified": "建于公元970年,是世界上最古老的大学和清真寺之一。一千多年来一直是逊尼派伊斯兰学术中心,也是法蒂玛王朝建筑的精彩典范。",
+        "esMx": "Fundada en 970 d.C., una de las universidades y mezquitas más antiguas del mundo. El centro de la erudición islámica sunita durante más de un milenio y un impresionante ejemplo de arquitectura fatimí."
+      },
+      "coordinates": {
+        "lat": 30.0459,
+        "lng": 31.2625
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": {
+          "en": "Visitors welcome outside prayer times. Modest dress required.",
+          "ar": "الزوار مرحب بيهم في غير أوقات الصلاة. لازم لبس محتشم.",
+          "zhSimplified": "祈祷时间之外欢迎游客。需要穿着保守。",
+          "esMx": "Visitantes bienvenidos fuera de las horas de oración. Se requiere vestimenta modesta."
+        }
+      },
+      "address": {
+        "en": "El-Darb El-Ahmar, Cairo, Egypt",
+        "ar": "الدرب الأحمر، القاهرة، مصر",
+        "zhSimplified": "达布·艾哈迈尔,开罗,埃及",
+        "esMx": "El-Darb El-Ahmar, El Cairo, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-hanging-church",
+      "category": "CHURCH",
+      "name": {
+        "en": "Hanging Church",
+        "ar": "الكنيسة المعلقة",
+        "zhSimplified": "悬空教堂",
+        "esMx": "Iglesia Colgante"
+      },
+      "description": {
+        "en": "One of Egypt's oldest Coptic Christian churches, built in the 3rd century atop a Roman fortress gate. The nave appears to hang above the passageway, giving the church its name.",
+        "ar": "من أقدم الكنايس القبطية المسيحية في مصر، اتبنت في القرن التالت فوق بوابة حصن روماني. الصحن بيبان كأنه معلق فوق الممر، ومن هنا اسمها.",
+        "zhSimplified": "埃及最古老的科普特基督教堂之一,建于3世纪罗马要塞大门之上。中殿似乎悬在通道上方,因此得名。",
+        "esMx": "Una de las iglesias cristianas coptas más antiguas de Egipto, construida en el siglo III sobre una puerta de fortaleza romana. La nave parece colgar sobre el pasaje, de ahí el nombre de la iglesia."
+      },
+      "coordinates": {
+        "lat": 30.0050,
+        "lng": 31.2300
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "08:00", "close": "16:00" },
+          "TUESDAY": { "type": "hours", "open": "08:00", "close": "16:00" },
+          "WEDNESDAY": { "type": "hours", "open": "08:00", "close": "16:00" },
+          "THURSDAY": { "type": "hours", "open": "08:00", "close": "16:00" },
+          "FRIDAY": { "type": "hours", "open": "08:00", "close": "11:00" },
+          "SATURDAY": { "type": "hours", "open": "08:00", "close": "16:00" },
+          "SUNDAY": { "type": "hours", "open": "08:00", "close": "11:00" }
+        },
+        "notes": {
+          "en": "Located in Coptic Cairo, near other historic churches and the Coptic Museum.",
+          "ar": "موجودة في مصر القديمة، قريبة من كنايس تاريخية تانية والمتحف القبطي.",
+          "zhSimplified": "位于科普特开罗,靠近其他历史悠久的教堂和科普特博物馆。",
+          "esMx": "Ubicada en El Cairo Copto, cerca de otras iglesias históricas y del Museo Copto."
+        }
+      },
+      "address": {
+        "en": "Mar Girgis St, Coptic Cairo, Egypt",
+        "ar": "شارع مار جرجس، مصر القديمة، مصر",
+        "zhSimplified": "马尔·吉尔吉斯街,科普特开罗,埃及",
+        "esMx": "Calle Mar Girgis, El Cairo Copto, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-abou-tarek",
+      "category": "FOOD",
+      "name": {
+        "en": "Abou Tarek",
+        "ar": "أبو طارق",
+        "zhSimplified": "阿布·塔里克",
+        "esMx": "Abou Tarek"
+      },
+      "description": {
+        "en": "The most famous koshari restaurant in Egypt, serving the national dish since 1950. Multi-story restaurant in downtown Cairo dedicated entirely to perfecting koshari.",
+        "ar": "أشهر مطعم كشري في مصر، بيقدم الأكلة الوطنية من سنة 1950. مطعم كذا دور في وسط البلد مخصص بالكامل لإتقان الكشري.",
+        "zhSimplified": "埃及最著名的库沙里餐厅,自1950年以来提供这道国菜。位于开罗市中心的多层餐厅,专门致力于完善库沙里。",
+        "esMx": "El restaurante de koshari más famoso de Egipto, sirviendo el plato nacional desde 1950. Restaurante de varios pisos en el centro de El Cairo dedicado enteramente a perfeccionar el koshari."
+      },
+      "coordinates": {
+        "lat": 30.0508,
+        "lng": 31.2447
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "TUESDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "WEDNESDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "THURSDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "FRIDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "SATURDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "SUNDAY": { "type": "hours", "open": "08:00", "close": "00:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "16 Champollion St, Downtown, Cairo, Egypt",
+        "ar": "16 شارع شامبليون، وسط البلد، القاهرة، مصر",
+        "zhSimplified": "尚波利翁街16号,市中心,开罗,埃及",
+        "esMx": "Calle Champollion 16, Centro, El Cairo, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "cairo-felfela",
+      "category": "FOOD",
+      "name": {
+        "en": "Felfela",
+        "ar": "فلفلة",
+        "zhSimplified": "费尔费拉餐厅",
+        "esMx": "Felfela"
+      },
+      "description": {
+        "en": "Iconic Egyptian restaurant since 1959, known for traditional dishes in a quirky atmosphere with vintage decor. Popular with tourists and locals alike.",
+        "ar": "مطعم مصري شهير من سنة 1959، معروف بالأكلات التقليدية في جو غريب بديكور قديم. شعبي عند السياح والمحليين.",
+        "zhSimplified": "自1959年以来标志性的埃及餐厅,以传统菜肴和复古装饰的独特氛围而闻名。受游客和当地人的欢迎。",
+        "esMx": "Icónico restaurante egipcio desde 1959, conocido por sus platos tradicionales en un ambiente peculiar con decoración vintage. Popular entre turistas y locales por igual."
+      },
+      "coordinates": {
+        "lat": 30.0497,
+        "lng": 31.2389
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "TUESDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "WEDNESDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "THURSDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "FRIDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "SATURDAY": { "type": "hours", "open": "08:00", "close": "00:00" },
+          "SUNDAY": { "type": "hours", "open": "08:00", "close": "00:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "15 Hoda Shaarawy St, Downtown, Cairo, Egypt",
+        "ar": "15 شارع هدى شعراوي، وسط البلد، القاهرة، مصر",
+        "zhSimplified": "霍达·沙阿拉维街15号,市中心,开罗,埃及",
+        "esMx": "Calle Hoda Shaarawy 15, Centro, El Cairo, Egipto"
+      },
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "id": "alexandria",
+  "detailVersion": 1,
+  "name": {
+    "en": "Alexandria",
+    "ar": "الإسكندرية",
+    "zhSimplified": "亚历山大",
+    "esMx": "Alejandría"
+  },
+  "coordinates": {
+    "lat": 31.2001,
+    "lng": 29.9187
+  },
+  "foundingDate": "332 BC",
+  "population": 5200000,
+  "pointsOfInterest": [
+    {
+      "id": "alex-bibliotheca",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Bibliotheca Alexandrina",
+        "ar": "مكتبة الإسكندرية",
+        "zhSimplified": "亚历山大图书馆",
+        "esMx": "Biblioteca de Alejandría"
+      },
+      "description": {
+        "en": "Modern library and cultural center built on the site of the ancient Library of Alexandria, opened in 2002. Houses millions of books, multiple museums, and a planetarium.",
+        "ar": "مكتبة حديثة ومركز ثقافي بنيت على موقع مكتبة الإسكندرية القديمة، افتتحت سنة 2002. فيها ملايين الكتب وعدة متاحف وقبة فلكية.",
+        "zhSimplified": "建在古代亚历山大图书馆遗址上的现代图书馆和文化中心,2002年开放。藏有数百万册书籍、多个博物馆和一个天文馆。",
+        "esMx": "Biblioteca moderna y centro cultural construido en el sitio de la antigua Biblioteca de Alejandría, inaugurado en 2002. Alberga millones de libros, varios museos y un planetario."
+      },
+      "coordinates": {
+        "lat": 31.2089,
+        "lng": 29.9092
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "10:00", "close": "19:00" },
+          "TUESDAY": { "type": "hours", "open": "10:00", "close": "19:00" },
+          "WEDNESDAY": { "type": "hours", "open": "10:00", "close": "19:00" },
+          "THURSDAY": { "type": "hours", "open": "10:00", "close": "19:00" },
+          "FRIDAY": { "type": "hours", "open": "14:00", "close": "19:00" },
+          "SATURDAY": { "type": "hours", "open": "10:00", "close": "19:00" },
+          "SUNDAY": { "type": "hours", "open": "10:00", "close": "19:00" }
+        },
+        "notes": {
+          "en": "Closed on national holidays. Hours may vary during Ramadan.",
+          "ar": "مقفولة في الأجازات الرسمية. المواعيد ممكن تتغير في رمضان.",
+          "zhSimplified": "国家假日关闭。斋月期间时间可能有所变化。",
+          "esMx": "Cerrado en días festivos nacionales. Los horarios pueden variar durante el Ramadán."
+        }
+      },
+      "address": {
+        "en": "El Shatby, Alexandria, Egypt",
+        "ar": "الشاطبي، الإسكندرية، مصر",
+        "zhSimplified": "沙特比,亚历山大,埃及",
+        "esMx": "El Shatby, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-qaitbay",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Citadel of Qaitbay",
+        "ar": "قلعة قايتباي",
+        "zhSimplified": "盖贝依城堡",
+        "esMx": "Ciudadela de Qaitbay"
+      },
+      "description": {
+        "en": "15th-century defensive fortress built on the exact site of the ancient Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World. Constructed by Sultan Qaitbay in 1477.",
+        "ar": "قلعة دفاعية من القرن الخامس عشر اتبنت في نفس مكان فنار الإسكندرية القديم، اللي كان واحد من عجائب الدنيا السبع. بناها السلطان قايتباي سنة 1477.",
+        "zhSimplified": "15世纪防御要塞,建在古代亚历山大灯塔的确切位置上,这是古代世界七大奇迹之一。由苏丹盖贝依于1477年建造。",
+        "esMx": "Fortaleza defensiva del siglo XV construida en el sitio exacto del antiguo Faro de Alejandría, una de las Siete Maravillas del Mundo Antiguo. Construida por el sultán Qaitbay en 1477."
+      },
+      "coordinates": {
+        "lat": 31.2139,
+        "lng": 29.8856
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "FRIDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "17:00" }
+        },
+        "notes": {
+          "en": "Last entry one hour before closing.",
+          "ar": "آخر دخول قبل القفل بساعة.",
+          "zhSimplified": "关闭前一小时停止入场。",
+          "esMx": "Última entrada una hora antes del cierre."
+        }
+      },
+      "address": {
+        "en": "Eastern Harbor, Alexandria, Egypt",
+        "ar": "الميناء الشرقي، الإسكندرية، مصر",
+        "zhSimplified": "东港,亚历山大,埃及",
+        "esMx": "Puerto Oriental, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-catacombs",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Catacombs of Kom el Shoqafa",
+        "ar": "مقابر كوم الشقافة",
+        "zhSimplified": "孔姆·苏卡法地下墓穴",
+        "esMx": "Catacumbas de Kom el Shoqafa"
+      },
+      "description": {
+        "en": "Roman-era underground burial complex from the 2nd century AD, blending Egyptian, Greek, and Roman artistic styles. Considered one of the Seven Wonders of the Middle Ages.",
+        "ar": "مجمع دفن تحت الأرض من العصر الروماني يرجع للقرن التاني الميلادي، بيجمع بين الطراز المصري واليوناني والروماني. بيعتبر واحد من عجائب الدنيا السبع في العصور الوسطى.",
+        "zhSimplified": "公元2世纪罗马时代的地下墓葬群,融合了埃及、希腊和罗马的艺术风格。被认为是中世纪七大奇迹之一。",
+        "esMx": "Complejo funerario subterráneo de la época romana del siglo II d.C., que combina estilos artísticos egipcios, griegos y romanos. Considerado una de las Siete Maravillas de la Edad Media."
+      },
+      "coordinates": {
+        "lat": 31.1783,
+        "lng": 29.8920
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "FRIDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "16:30" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Karmouz, Alexandria, Egypt",
+        "ar": "كرموز، الإسكندرية، مصر",
+        "zhSimplified": "卡尔穆兹,亚历山大,埃及",
+        "esMx": "Karmouz, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-pompey-pillar",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Pompey's Pillar",
+        "ar": "عمود السواري",
+        "zhSimplified": "庞贝柱",
+        "esMx": "Columna de Pompeyo"
+      },
+      "description": {
+        "en": "A massive Roman triumphal column erected in 297 AD in honor of Emperor Diocletian. Standing 27 meters tall, it is the largest of its type outside the imperial capitals of Rome and Constantinople.",
+        "ar": "عمود نصر روماني ضخم اتبنى سنة 297 ميلادية تكريماً للإمبراطور دقلديانوس. ارتفاعه 27 متر وهو الأكبر من نوعه خارج العواصم الإمبراطورية روما والقسطنطينية.",
+        "zhSimplified": "公元297年为纪念戴克里先皇帝而建的巨大罗马凯旋柱。高27米,是罗马和君士坦丁堡帝国首都之外同类柱中最大的。",
+        "esMx": "Una columna triunfal romana masiva erigida en 297 d.C. en honor al emperador Diocleciano. Con 27 metros de altura, es la más grande de su tipo fuera de las capitales imperiales de Roma y Constantinopla."
+      },
+      "coordinates": {
+        "lat": 31.1822,
+        "lng": 29.8964
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "FRIDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "16:30" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "16:30" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Karmouz, Alexandria, Egypt",
+        "ar": "كرموز، الإسكندرية، مصر",
+        "zhSimplified": "卡尔穆兹,亚历山大,埃及",
+        "esMx": "Karmouz, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-montaza",
+      "category": "PARK",
+      "name": {
+        "en": "Montaza Palace Gardens",
+        "ar": "حدائق قصر المنتزه",
+        "zhSimplified": "蒙塔扎宫花园",
+        "esMx": "Jardines del Palacio Montaza"
+      },
+      "description": {
+        "en": "Extensive royal gardens surrounding the former summer palace of the Egyptian royal family. Features beaches, gardens, and the Salamlek and Haramlik palaces.",
+        "ar": "حدائق ملكية واسعة بتحوط القصر اللي كان مقر الصيف للعائلة المالكة المصرية. فيها شواطئ وحدائق وقصرين السلاملك والحرملك.",
+        "zhSimplified": "围绕埃及王室前夏宫的大型皇家花园。设有海滩、花园以及萨拉姆莱克宫和哈拉姆利克宫。",
+        "esMx": "Extensos jardines reales que rodean el antiguo palacio de verano de la familia real egipcia. Cuenta con playas, jardines y los palacios Salamlek y Haramlik."
+      },
+      "coordinates": {
+        "lat": 31.2884,
+        "lng": 30.0156
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "08:00", "close": "23:00" },
+          "TUESDAY": { "type": "hours", "open": "08:00", "close": "23:00" },
+          "WEDNESDAY": { "type": "hours", "open": "08:00", "close": "23:00" },
+          "THURSDAY": { "type": "hours", "open": "08:00", "close": "23:00" },
+          "FRIDAY": { "type": "hours", "open": "08:00", "close": "23:00" },
+          "SATURDAY": { "type": "hours", "open": "08:00", "close": "23:00" },
+          "SUNDAY": { "type": "hours", "open": "08:00", "close": "23:00" }
+        },
+        "notes": {
+          "en": "Entry fee required. Beach access has additional cost.",
+          "ar": "فيها تذكرة دخول. الدخول للشاطئ له تذكرة منفصلة.",
+          "zhSimplified": "需要门票。海滩入场需要额外费用。",
+          "esMx": "Se requiere tarifa de entrada. El acceso a la playa tiene un costo adicional."
+        }
+      },
+      "address": {
+        "en": "Montaza, Alexandria, Egypt",
+        "ar": "المنتزه، الإسكندرية، مصر",
+        "zhSimplified": "蒙塔扎,亚历山大,埃及",
+        "esMx": "Montaza, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-antoniadis",
+      "category": "PARK",
+      "name": {
+        "en": "Antoniadis Garden",
+        "ar": "حديقة أنطونيادس",
+        "zhSimplified": "安东尼亚迪斯花园",
+        "esMx": "Jardín Antoniadis"
+      },
+      "description": {
+        "en": "Historic 19th-century garden designed in French style, featuring statues, fountains, and rare plants. Originally owned by the Greek merchant John Antoniadis.",
+        "ar": "حديقة تاريخية من القرن التاسع عشر متصممة على الطراز الفرنسي، فيها تماثيل ونوافير ونباتات نادرة. الأصل كانت ملك للتاجر اليوناني جون أنطونيادس.",
+        "zhSimplified": "19世纪历史悠久的法式花园,设有雕像、喷泉和珍稀植物。最初归希腊商人约翰·安东尼亚迪斯所有。",
+        "esMx": "Jardín histórico del siglo XIX diseñado al estilo francés, con estatuas, fuentes y plantas raras. Originalmente propiedad del comerciante griego John Antoniadis."
+      },
+      "coordinates": {
+        "lat": 31.1944,
+        "lng": 29.9447
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "TUESDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "WEDNESDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "THURSDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "FRIDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "SATURDAY": { "type": "hours", "open": "09:00", "close": "17:00" },
+          "SUNDAY": { "type": "hours", "open": "09:00", "close": "17:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Smouha, Alexandria, Egypt",
+        "ar": "سموحة، الإسكندرية، مصر",
+        "zhSimplified": "斯穆哈,亚历山大,埃及",
+        "esMx": "Smouha, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-abu-abbas",
+      "category": "MOSQUE",
+      "name": {
+        "en": "Abu al-Abbas al-Mursi Mosque",
+        "ar": "مسجد أبو العباس المرسي",
+        "zhSimplified": "阿布·阿巴斯·穆尔西清真寺",
+        "esMx": "Mezquita de Abu al-Abbas al-Mursi"
+      },
+      "description": {
+        "en": "The largest and most famous mosque in Alexandria, built in 1775 over the tomb of the 13th-century Andalusian Sufi saint Abu al-Abbas al-Mursi. Rebuilt in its current form in 1944.",
+        "ar": "أكبر وأشهر مسجد في الإسكندرية، اتبنى سنة 1775 فوق قبر العالم الصوفي الأندلسي أبو العباس المرسي اللي عاش في القرن التلاتاشر. أعيد بناؤه بشكله الحالي سنة 1944.",
+        "zhSimplified": "亚历山大最大、最著名的清真寺,建于1775年,位于13世纪安达卢西亚苏菲派圣人阿布·阿巴斯·穆尔西的陵墓之上。1944年以现今的形式重建。",
+        "esMx": "La mezquita más grande y famosa de Alejandría, construida en 1775 sobre la tumba del santo sufí andalusí del siglo XIII Abu al-Abbas al-Mursi. Reconstruida en su forma actual en 1944."
+      },
+      "coordinates": {
+        "lat": 31.2056,
+        "lng": 29.8819
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": {
+          "en": "Non-Muslim visitors welcome outside prayer times. Modest dress required.",
+          "ar": "الزوار من غير المسلمين مرحب بيهم في غير أوقات الصلاة. لازم لبس محتشم.",
+          "zhSimplified": "祈祷时间之外欢迎非穆斯林游客。需要穿着保守。",
+          "esMx": "Visitantes no musulmanes bienvenidos fuera de las horas de oración. Se requiere vestimenta modesta."
+        }
+      },
+      "address": {
+        "en": "Anfoushi, Alexandria, Egypt",
+        "ar": "الأنفوشي، الإسكندرية، مصر",
+        "zhSimplified": "安福西,亚历山大,埃及",
+        "esMx": "Anfoushi, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-st-mark",
+      "category": "CHURCH",
+      "name": {
+        "en": "Saint Mark Coptic Orthodox Cathedral",
+        "ar": "كاتدرائية القديس مرقس القبطية الأرثوذكسية",
+        "zhSimplified": "圣马可科普特正教大教堂",
+        "esMx": "Catedral Copta Ortodoxa de San Marcos"
+      },
+      "description": {
+        "en": "Historic seat of the Coptic Orthodox Pope of Alexandria, traditionally founded by Saint Mark the Evangelist in 60 AD. The current structure dates to 1950, built on the site of much older churches.",
+        "ar": "المقر التاريخي لبابا الإسكندرية للأقباط الأرثوذكس، اللي بيقولوا إن القديس مرقس الإنجيلي أسسها سنة 60 ميلادية. المبنى الحالي بيرجع لسنة 1950 واتبنى على موقع كنايس أقدم بكتير.",
+        "zhSimplified": "亚历山大科普特正教皇的历史所在地,传统上由福音传道者圣马可于公元60年创建。现存建筑可追溯到1950年,建在更古老教堂的遗址上。",
+        "esMx": "Sede histórica del Papa Copto Ortodoxo de Alejandría, tradicionalmente fundada por San Marcos el Evangelista en 60 d.C. La estructura actual data de 1950, construida en el sitio de iglesias mucho más antiguas."
+      },
+      "coordinates": {
+        "lat": 31.1986,
+        "lng": 29.8950
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "08:00", "close": "18:00" },
+          "TUESDAY": { "type": "hours", "open": "08:00", "close": "18:00" },
+          "WEDNESDAY": { "type": "hours", "open": "08:00", "close": "18:00" },
+          "THURSDAY": { "type": "hours", "open": "08:00", "close": "18:00" },
+          "FRIDAY": { "type": "hours", "open": "08:00", "close": "18:00" },
+          "SATURDAY": { "type": "hours", "open": "08:00", "close": "18:00" },
+          "SUNDAY": { "type": "hours", "open": "07:00", "close": "20:00" }
+        },
+        "notes": {
+          "en": "Sunday liturgy in the morning. Modest dress required.",
+          "ar": "القداس يوم الحد الصبح. لازم لبس محتشم.",
+          "zhSimplified": "周日早晨举行礼拜仪式。需要穿着保守。",
+          "esMx": "Liturgia dominical por la mañana. Se requiere vestimenta modesta."
+        }
+      },
+      "address": {
+        "en": "Mahatet El Raml, Alexandria, Egypt",
+        "ar": "محطة الرمل، الإسكندرية، مصر",
+        "zhSimplified": "拉姆勒站,亚历山大,埃及",
+        "esMx": "Mahatet El Raml, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-mohamed-ahmed",
+      "category": "FOOD",
+      "name": {
+        "en": "Mohamed Ahmed",
+        "ar": "محمد أحمد",
+        "zhSimplified": "穆罕默德·艾哈迈德餐厅",
+        "esMx": "Mohamed Ahmed"
+      },
+      "description": {
+        "en": "Legendary local restaurant famous for its foul (fava beans), falafel (taameya), and Egyptian breakfast since 1957. A beloved Alexandria institution.",
+        "ar": "مطعم شعبي أسطوري مشهور بالفول والطعمية والفطار المصري من سنة 1957. من أحب أماكن الإسكندرية.",
+        "zhSimplified": "传奇当地餐厅,自1957年以来以蚕豆、塔米亚(炸豆丸)和埃及早餐而闻名。深受亚历山大人喜爱。",
+        "esMx": "Legendario restaurante local famoso por su foul (habas), falafel (taameya) y desayuno egipcio desde 1957. Una querida institución de Alejandría."
+      },
+      "coordinates": {
+        "lat": 31.2003,
+        "lng": 29.9050
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "06:00", "close": "00:00" },
+          "TUESDAY": { "type": "hours", "open": "06:00", "close": "00:00" },
+          "WEDNESDAY": { "type": "hours", "open": "06:00", "close": "00:00" },
+          "THURSDAY": { "type": "hours", "open": "06:00", "close": "00:00" },
+          "FRIDAY": { "type": "hours", "open": "06:00", "close": "00:00" },
+          "SATURDAY": { "type": "hours", "open": "06:00", "close": "00:00" },
+          "SUNDAY": { "type": "hours", "open": "06:00", "close": "00:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "17 Shakour Pasha St, Mahatet El Raml, Alexandria, Egypt",
+        "ar": "17 شارع شكور باشا، محطة الرمل، الإسكندرية، مصر",
+        "zhSimplified": "沙库尔帕夏街17号,拉姆勒站,亚历山大,埃及",
+        "esMx": "Calle Shakour Pasha 17, Mahatet El Raml, Alejandría, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "alex-abu-ashraf",
+      "category": "FOOD",
+      "name": {
+        "en": "Abu Ashraf Seafood",
+        "ar": "أبو أشرف للمأكولات البحرية",
+        "zhSimplified": "阿布·阿什拉夫海鲜餐厅",
+        "esMx": "Mariscos Abu Ashraf"
+      },
+      "description": {
+        "en": "Iconic seafood restaurant in Bahari district where you pick your fresh fish from the display and they grill it. Famous for sayadeya rice and fresh Mediterranean catches.",
+        "ar": "مطعم مأكولات بحرية شهير في بحري، بتختار السمكة الطازة من العرض وهما بيشووها على الفحم. مشهور برز الصيادية وصيد البحر الأبيض الطازج.",
+        "zhSimplified": "巴哈里区标志性海鲜餐厅,您可以从展示台挑选新鲜鱼,他们会为您烤制。以萨亚迪亚米饭和新鲜地中海渔获而闻名。",
+        "esMx": "Icónico restaurante de mariscos en el distrito de Bahari donde eliges tu pescado fresco del exhibidor y lo asan a la parrilla. Famoso por su arroz sayadeya y capturas frescas del Mediterráneo."
+      },
+      "coordinates": {
+        "lat": 31.2089,
+        "lng": 29.8842
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "12:00", "close": "01:00" },
+          "TUESDAY": { "type": "hours", "open": "12:00", "close": "01:00" },
+          "WEDNESDAY": { "type": "hours", "open": "12:00", "close": "01:00" },
+          "THURSDAY": { "type": "hours", "open": "12:00", "close": "01:00" },
+          "FRIDAY": { "type": "hours", "open": "12:00", "close": "01:00" },
+          "SATURDAY": { "type": "hours", "open": "12:00", "close": "01:00" },
+          "SUNDAY": { "type": "hours", "open": "12:00", "close": "01:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Bahari, Alexandria, Egypt",
+        "ar": "بحري، الإسكندرية، مصر",
+        "zhSimplified": "巴哈里,亚历山大,埃及",
+        "esMx": "Bahari, Alejandría, Egipto"
+      },
+      "images": []
+    }
+  ]
+}

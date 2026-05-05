@@ -1,0 +1,350 @@
+{
+  "id": "dahab",
+  "detailVersion": 1,
+  "name": {
+    "en": "Dahab",
+    "ar": "دهب",
+    "zhSimplified": "达哈布",
+    "esMx": "Dahab"
+  },
+  "coordinates": {
+    "lat": 28.5091,
+    "lng": 34.5136
+  },
+  "foundingDate": "1980s (modern town)",
+  "population": 15000,
+  "pointsOfInterest": [
+    {
+      "id": "dahab-blue-hole",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Blue Hole",
+        "ar": "البلو هول",
+        "zhSimplified": "蓝洞",
+        "esMx": "Hoyo Azul"
+      },
+      "description": {
+        "en": "World-famous diving site with a 130-meter deep submarine sinkhole in the Red Sea. Surrounded by stunning coral reefs and known for both shallow snorkeling and technical deep diving.",
+        "ar": "موقع غطس مشهور عالمياً، عبارة عن حفرة عميقة 130 متر تحت الميه في البحر الأحمر. محاطة بشعاب مرجانية رائعة، ومشهورة سواء للسنوركلينج في الميه الضحلة أو الغطس العميق التقني.",
+        "zhSimplified": "世界著名的潜水点,红海中有一个130米深的海底陷坑。周围环绕着令人惊叹的珊瑚礁,以浅水浮潜和技术深潜而闻名。",
+        "esMx": "Sitio de buceo mundialmente famoso con un sumidero submarino de 130 metros de profundidad en el Mar Rojo. Rodeado de impresionantes arrecifes de coral y conocido tanto por el snorkel poco profundo como por el buceo técnico profundo."
+      },
+      "coordinates": {
+        "lat": 28.5722,
+        "lng": 34.5378
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": {
+          "en": "Best diving with certified guides only. Strong currents, dangerous for inexperienced divers.",
+          "ar": "أحسن غطس بيكون مع مرشدين معتمدين بس. التيارات قوية وخطيرة على الغطاسين قليلي الخبرة.",
+          "zhSimplified": "最好与持证导游一起潜水。水流强劲,对没有经验的潜水员来说很危险。",
+          "esMx": "Mejor bucear solo con guías certificados. Corrientes fuertes, peligrosas para buceadores sin experiencia."
+        }
+      },
+      "address": {
+        "en": "8km north of Dahab, South Sinai, Egypt",
+        "ar": "8 كم شمال دهب، جنوب سيناء، مصر",
+        "zhSimplified": "达哈布以北8公里,南西奈,埃及",
+        "esMx": "8 km al norte de Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-canyon",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "The Canyon",
+        "ar": "الكانيون",
+        "zhSimplified": "峡谷",
+        "esMx": "El Cañón"
+      },
+      "description": {
+        "en": "Dramatic underwater canyon dive site with narrow passages and crystal-clear water. The canyon descends to about 30 meters and offers an unforgettable diving experience.",
+        "ar": "موقع غطس تحت الميه عبارة عن واد تحت البحر مدهش، فيه ممرات ضيقة وميه صافية كأنها كريستال. الكانيون بينزل لعمق حوالي 30 متر وبيدي تجربة غطس مش هتتنسي.",
+        "zhSimplified": "壮观的水下峡谷潜水点,有狭窄的通道和清澈见底的水。峡谷下降至约30米,提供难忘的潜水体验。",
+        "esMx": "Espectacular sitio de buceo en cañón submarino con pasajes estrechos y aguas cristalinas. El cañón desciende a unos 30 metros y ofrece una experiencia de buceo inolvidable."
+      },
+      "coordinates": {
+        "lat": 28.6097,
+        "lng": 34.6033
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": {
+          "en": "Recommended for advanced divers. Diving guide required.",
+          "ar": "مناسب للغطاسين المتقدمين. لازم مرشد غطس.",
+          "zhSimplified": "推荐给高级潜水员。需要潜水导游。",
+          "esMx": "Recomendado para buceadores avanzados. Se requiere guía de buceo."
+        }
+      },
+      "address": {
+        "en": "North of Dahab, South Sinai, Egypt",
+        "ar": "شمال دهب، جنوب سيناء، مصر",
+        "zhSimplified": "达哈布以北,南西奈,埃及",
+        "esMx": "Al norte de Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-three-pools",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Three Pools",
+        "ar": "البرك التلاتة",
+        "zhSimplified": "三池",
+        "esMx": "Tres Pozas"
+      },
+      "description": {
+        "en": "A series of natural pools along the Red Sea coast, perfect for snorkeling and observing colorful fish and coral. Less crowded than other dive sites.",
+        "ar": "مجموعة برك طبيعية على ساحل البحر الأحمر، مثالية للسنوركلينج ومشاهدة السمك الملون والشعاب المرجانية. أقل ازدحاماً من مواقع الغطس التانية.",
+        "zhSimplified": "红海海岸边的一系列天然池塘,非常适合浮潜和观察色彩缤纷的鱼类和珊瑚。比其他潜水点人少。",
+        "esMx": "Una serie de piscinas naturales a lo largo de la costa del Mar Rojo, perfectas para hacer snorkel y observar peces coloridos y coral. Menos concurrido que otros sitios de buceo."
+      },
+      "coordinates": {
+        "lat": 28.5500,
+        "lng": 34.5300
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Coastal road, North Dahab, South Sinai, Egypt",
+        "ar": "الطريق الساحلي، شمال دهب، جنوب سيناء، مصر",
+        "zhSimplified": "海滨路,北达哈布,南西奈,埃及",
+        "esMx": "Carretera costera, Norte de Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-lighthouse",
+      "category": "TOURIST_SITE",
+      "name": {
+        "en": "Lighthouse Reef",
+        "ar": "شعاب اللايتهاوس",
+        "zhSimplified": "灯塔礁",
+        "esMx": "Arrecife del Faro"
+      },
+      "description": {
+        "en": "Popular shore diving and snorkeling spot in the heart of Dahab town, easily accessible from cafes along the promenade. Great for beginners.",
+        "ar": "موقع شعبي للغطس من الشاطئ والسنوركلينج في قلب مدينة دهب، سهل الوصول ليه من القهاوي على البحر. مناسب للمبتدئين.",
+        "zhSimplified": "位于达哈布镇中心的热门海岸潜水和浮潜点,从海滨步道上的咖啡馆很容易到达。非常适合初学者。",
+        "esMx": "Popular spot de buceo desde la orilla y snorkel en el corazón del pueblo de Dahab, fácilmente accesible desde los cafés a lo largo del paseo marítimo. Excelente para principiantes."
+      },
+      "coordinates": {
+        "lat": 28.5167,
+        "lng": 34.5167
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Mashraba, Dahab, South Sinai, Egypt",
+        "ar": "المشربة، دهب، جنوب سيناء، مصر",
+        "zhSimplified": "马什拉巴,达哈布,南西奈,埃及",
+        "esMx": "Mashraba, Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-ras-abu-galum",
+      "category": "PARK",
+      "name": {
+        "en": "Ras Abu Galum Protected Area",
+        "ar": "محمية رأس أبو جالوم",
+        "zhSimplified": "拉斯·阿布·加卢姆自然保护区",
+        "esMx": "Área Protegida Ras Abu Galum"
+      },
+      "description": {
+        "en": "A pristine 400 sq km protected area between mountains and sea, home to Bedouin communities, rare wildlife, and exceptional snorkeling. Accessible by camel, boat, or 4x4.",
+        "ar": "محمية طبيعية بكر مساحتها 400 كم مربع بين الجبال والبحر، فيها مجتمعات بدوية وحياة برية نادرة وسنوركلينج استثنائي. الوصول ليها بالجمل أو القارب أو سيارة دفع رباعي.",
+        "zhSimplified": "原始的400平方公里保护区,位于山海之间,是贝都因社区、稀有野生动物的家园,有出色的浮潜体验。可乘骆驼、船或四驱车前往。",
+        "esMx": "Un área protegida prístina de 400 km cuadrados entre montañas y mar, hogar de comunidades beduinas, fauna rara y excelente snorkel. Accesible en camello, bote o 4x4."
+      },
+      "coordinates": {
+        "lat": 28.6500,
+        "lng": 34.6000
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": {
+          "en": "Entry fee. Best visited on a guided tour. Pack water and sun protection.",
+          "ar": "فيها تذكرة دخول. الأحسن تروحلها مع رحلة منظمة. خد معاك ميه وواقي شمس.",
+          "zhSimplified": "需要门票。最好参加导览游。携带水和防晒用品。",
+          "esMx": "Tarifa de entrada. Se visita mejor en un tour guiado. Lleva agua y protección solar."
+        }
+      },
+      "address": {
+        "en": "North of Blue Hole, South Sinai, Egypt",
+        "ar": "شمال البلو هول، جنوب سيناء، مصر",
+        "zhSimplified": "蓝洞以北,南西奈,埃及",
+        "esMx": "Al norte del Hoyo Azul, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-mosque",
+      "category": "MOSQUE",
+      "name": {
+        "en": "Dahab Central Mosque",
+        "ar": "مسجد دهب المركزي",
+        "zhSimplified": "达哈布中央清真寺",
+        "esMx": "Mezquita Central de Dahab"
+      },
+      "description": {
+        "en": "The main mosque serving the local Bedouin and Egyptian community in Dahab town center. Features traditional Egyptian Islamic architecture.",
+        "ar": "المسجد الرئيسي اللي بيخدم المجتمع البدوي والمصري في وسط مدينة دهب. متبني على الطراز الإسلامي المصري التقليدي.",
+        "zhSimplified": "为达哈布镇中心的当地贝都因和埃及社区服务的主要清真寺。具有传统的埃及伊斯兰建筑风格。",
+        "esMx": "La mezquita principal que sirve a la comunidad local beduina y egipcia en el centro de Dahab. Cuenta con arquitectura islámica egipcia tradicional."
+      },
+      "coordinates": {
+        "lat": 28.5097,
+        "lng": 34.5142
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "alwaysOpen" },
+          "TUESDAY": { "type": "alwaysOpen" },
+          "WEDNESDAY": { "type": "alwaysOpen" },
+          "THURSDAY": { "type": "alwaysOpen" },
+          "FRIDAY": { "type": "alwaysOpen" },
+          "SATURDAY": { "type": "alwaysOpen" },
+          "SUNDAY": { "type": "alwaysOpen" }
+        },
+        "notes": {
+          "en": "Visitors welcome outside prayer times. Modest dress required.",
+          "ar": "الزوار مرحب بيهم في غير أوقات الصلاة. لازم لبس محتشم.",
+          "zhSimplified": "祈祷时间之外欢迎游客。需要穿着保守。",
+          "esMx": "Visitantes bienvenidos fuera de las horas de oración. Se requiere vestimenta modesta."
+        }
+      },
+      "address": {
+        "en": "Town center, Dahab, South Sinai, Egypt",
+        "ar": "وسط المدينة، دهب، جنوب سيناء، مصر",
+        "zhSimplified": "镇中心,达哈布,南西奈,埃及",
+        "esMx": "Centro del pueblo, Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-everyday",
+      "category": "FOOD",
+      "name": {
+        "en": "Everyday Restaurant",
+        "ar": "مطعم إيفري داي",
+        "zhSimplified": "Everyday餐厅",
+        "esMx": "Restaurante Everyday"
+      },
+      "description": {
+        "en": "Beloved local restaurant serving authentic Egyptian and Bedouin cuisine at very reasonable prices. Known for grilled fish, kofta, and traditional sides.",
+        "ar": "مطعم محلي محبوب بيقدم أكل مصري وبدوي أصيل بأسعار مناسبة جداً. مشهور بالسمك المشوي والكفتة والمقبلات التقليدية.",
+        "zhSimplified": "深受喜爱的当地餐厅,以非常合理的价格供应正宗的埃及和贝都因菜肴。以烤鱼、烤肉饼和传统配菜而闻名。",
+        "esMx": "Querido restaurante local que sirve auténtica cocina egipcia y beduina a precios muy razonables. Conocido por su pescado a la parrilla, kofta y guarniciones tradicionales."
+      },
+      "coordinates": {
+        "lat": 28.5103,
+        "lng": 34.5147
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "10:00", "close": "00:00" },
+          "TUESDAY": { "type": "hours", "open": "10:00", "close": "00:00" },
+          "WEDNESDAY": { "type": "hours", "open": "10:00", "close": "00:00" },
+          "THURSDAY": { "type": "hours", "open": "10:00", "close": "00:00" },
+          "FRIDAY": { "type": "hours", "open": "10:00", "close": "00:00" },
+          "SATURDAY": { "type": "hours", "open": "10:00", "close": "00:00" },
+          "SUNDAY": { "type": "hours", "open": "10:00", "close": "00:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Mashraba, Dahab, South Sinai, Egypt",
+        "ar": "المشربة، دهب، جنوب سيناء، مصر",
+        "zhSimplified": "马什拉巴,达哈布,南西奈,埃及",
+        "esMx": "Mashraba, Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    },
+    {
+      "id": "dahab-ralphs-pizza",
+      "category": "FOOD",
+      "name": {
+        "en": "Ralph's German Bakery",
+        "ar": "مخبز رالف الألماني",
+        "zhSimplified": "拉尔夫德国面包店",
+        "esMx": "Panadería Alemana de Ralph"
+      },
+      "description": {
+        "en": "Long-running European bakery and cafe popular with travelers, offering fresh bread, pastries, and breakfast in a relaxed setting.",
+        "ar": "مخبز وكافيه أوروبي قديم شعبي عند المسافرين، بيقدم خبز طازج ومعجنات وفطار في جو مريح.",
+        "zhSimplified": "经营多年的欧式面包店和咖啡馆,深受旅行者欢迎,在轻松的环境中供应新鲜面包、糕点和早餐。",
+        "esMx": "Panadería y café europeo de larga trayectoria popular entre los viajeros, que ofrece pan fresco, pasteles y desayuno en un ambiente relajado."
+      },
+      "coordinates": {
+        "lat": 28.5113,
+        "lng": 34.5152
+      },
+      "hours": {
+        "weeklySchedule": {
+          "MONDAY": { "type": "hours", "open": "07:00", "close": "23:00" },
+          "TUESDAY": { "type": "hours", "open": "07:00", "close": "23:00" },
+          "WEDNESDAY": { "type": "hours", "open": "07:00", "close": "23:00" },
+          "THURSDAY": { "type": "hours", "open": "07:00", "close": "23:00" },
+          "FRIDAY": { "type": "hours", "open": "07:00", "close": "23:00" },
+          "SATURDAY": { "type": "hours", "open": "07:00", "close": "23:00" },
+          "SUNDAY": { "type": "hours", "open": "07:00", "close": "23:00" }
+        },
+        "notes": null
+      },
+      "address": {
+        "en": "Masbat, Dahab, South Sinai, Egypt",
+        "ar": "المسبط، دهب، جنوب سيناء، مصر",
+        "zhSimplified": "马斯巴特,达哈布,南西奈,埃及",
+        "esMx": "Masbat, Dahab, Sinaí del Sur, Egipto"
+      },
+      "images": []
+    }
+  ]
+}

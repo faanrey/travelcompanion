@@ -1,0 +1,54 @@
+{
+  "manifestVersion": 1,
+  "lastUpdated": "2026-05-05",
+  "cities": [
+    {
+      "id": "alexandria",
+      "name": {
+        "en": "Alexandria",
+        "ar": "الإسكندرية",
+        "zhSimplified": "亚历山大",
+        "esMx": "Alejandría"
+      },
+      "coordinates": {
+        "lat": 31.2001,
+        "lng": 29.9187
+      },
+      "detailVersion": 1,
+      "detailUrl": "alexandria.json",
+      "featured": true
+    },
+    {
+      "id": "cairo",
+      "name": {
+        "en": "Cairo",
+        "ar": "القاهرة",
+        "zhSimplified": "开罗",
+        "esMx": "El Cairo"
+      },
+      "coordinates": {
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "detailVersion": 1,
+      "detailUrl": "cairo.json",
+      "featured": false
+    },
+    {
+      "id": "dahab",
+      "name": {
+        "en": "Dahab",
+        "ar": "دهب",
+        "zhSimplified": "达哈布",
+        "esMx": "Dahab"
+      },
+      "coordinates": {
+        "lat": 28.5091,
+        "lng": 34.5136
+      },
+      "detailVersion": 1,
+      "detailUrl": "dahab.json",
+      "featured": false
+    }
+  ]
+}
